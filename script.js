@@ -12,6 +12,10 @@ const organizacoes = [
   { nome: "Fundação Dorina Nowill para Cegos", lat: -23.597960, lng: -46.643878, cidade: "São Paulo", estado: "SP", telefone: "(11) 5087-0999", email: "atendimento@fundacaodorina.org.br", tipo: "Fundaçaõ filantrópica e sem fins lucrativos" },
   { nome: "Associação Desportiva para Deficientes", lat: -23.65997, lng: -46.64466, cidade: "São Paulo", estado: "SP", telefone: "(11) 5011-6133", email: "voluntario@add.org.br", tipo: "ONG" },
   { nome: "Instituto Brasileiro dos Direitos da Pessoa com Deficiência", lat: -22.92487, lng: -43.17866, cidade: "Rio de Janeiro", estado: "RJ", telefone: "(21) 3235-9290", email: "ibdd@ibdd.org.br", tipo: "ONG" },
+  { nome: "Associação dos Deficientes Visuais do Estado do Rio de Janeiro", lat: -22.9243, lng: -43.1790, cidade: "Rio de Janeiro", estado: "RJ", telefone: "(21) 4126-9347", email: "adverj@adverj.org.br", tipo: "Associação sem fins lucrativos" },
+  { nome: "Associação dos Deficientes Visuais de Rondônia", lat: -8.7608, lng: -63.9026, cidade: "Porto Velho", estado: "RO", telefone: "(69) 3224-4071", email: "asdevron@asdevron.org.br", tipo: "Associação sem fins lucrativos" },
+  { nome: "Instituto Rodrigo Mendes", lat: -23.584, lng: -46.7221, cidade: "São Paulo", estado: "SP", telefone: "(11) 3726-8418", email: "adm@rm.org.br", tipo: "Organização sem fins lucrativos / associação privada" },
+  { nome: "APAE – Distrito Federal", lat: -23.5611, lng: -46.6833, cidade: "Brasília", estado: "DF", telefone: "(61) 2101-0460 / (61) 9 9338-9242", email: "apaedf@apaedf.org.br", tipo: "Associação sem fins lucrativos / associação de pais e amigos dos excepcionais" }
 ];
 
 // Cria marcadores e armazena em array
