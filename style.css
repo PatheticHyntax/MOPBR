@@ -53,6 +53,8 @@ body {
     display: flex;
     flex-direction: column;
     gap: 12px;
+    max-height: 60vh; /* Ajuste conforme necessário */
+    overflow-y: auto;
 }
 
 .sidebar .organization-list li {
